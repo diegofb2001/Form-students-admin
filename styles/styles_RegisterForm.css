@@ -1,0 +1,27 @@
+.container{
+    max-width: 50%;
+    background-color: rgb(105, 211, 238);
+    padding: 15px;
+    margin-top: 10%;
+}
+
+h1{
+    text-align: center;
+}
+
+.rightMargin_20px{
+    margin-right: 20px;
+}
+
+.email{
+    display: flex;
+}
+
+.padding_bottom_15px{
+    padding-bottom: 15px;
+}
+
+.submit_login{
+    display: flex;
+    justify-content: space-around;
+}

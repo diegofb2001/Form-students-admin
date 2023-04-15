@@ -1,0 +1,40 @@
+#button-addon2{
+    color: blue;
+}
+
+h1{
+    text-align: center;
+}
+/* .form-select{
+     display: flex;
+    display: inline;
+} */
+
+#container-form{
+    padding: 10px;
+    margin: 10px;
+    width: auto;
+    height: auto;
+    border: 3px solid;
+    border-color: red;
+    border-radius: 10px;
+}
+
+.input-group input{
+    width: 300px;
+}
+
+.input-year-division{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.notes-form{
+    display: flex;
+
+}
+
+.submit-group{
+    margin-top: 10px;
+}
